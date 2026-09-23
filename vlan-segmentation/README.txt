@@ -1,0 +1,1 @@
+The main thing I messed up on was putting the VLANs on the router's 0/0 port instead of the 0/1. It was easy to remove them and configure it correctly. 
